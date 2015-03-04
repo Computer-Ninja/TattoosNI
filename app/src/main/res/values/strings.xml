@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tattoos NI</string>
+
+    <string name="title_section_homepage">Home Page</string>
+    <string name="title_section_studios">Studios</string>
+    <string name="title_section_artists">Artists</string>
+    <string name="title_section_news">News</string>
+    <string name="title_section_contact">Contact Us</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_options">Options</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
